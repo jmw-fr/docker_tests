@@ -1,0 +1,16 @@
+{
+  "name": "node-test",
+  "description": "nodejs test for docker",
+  "version": "0.1.0",
+  "author": "Jm Weeger",
+  "dependencies": {
+    "connect": "^3.6.0",
+    "express": "^4.15.2",
+    "mysql": "^2.13.0",
+    "serve-static": "^1.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  }
+}
